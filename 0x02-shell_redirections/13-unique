@@ -1,2 +1,2 @@
 #!/bin/bash
-cat my_list |sort|uniq|less
+|sort|uniq|less
