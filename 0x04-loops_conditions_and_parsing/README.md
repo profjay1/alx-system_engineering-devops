@@ -1,1 +1,1 @@
-Solutions to loops, conditions and parsing tasks in System engineering development.
+Solutions to loops, conditions and parsing tasks.
