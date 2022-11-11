@@ -1,1 +1,1 @@
-Solutions to process and signals tasks.
+Solutions to process and signals task.
