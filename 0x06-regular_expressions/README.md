@@ -1,1 +1,1 @@
-Solutions to regular expressions tasks.
+The Solutions to regular expressions tasks.
